@@ -1,8 +1,8 @@
 {
   "name": "emberdyn-cron-scheduler",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Cron Job Scheduler",
-  "main": "lib/test.js",
+  "main": "lib/index.js",
   "author": "Emberdyn, LLC",
   "license": "MIT",
   "dependencies": {
