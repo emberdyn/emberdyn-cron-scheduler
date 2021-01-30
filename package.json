@@ -1,0 +1,11 @@
+{
+  "name": "emberdyn-cron-sheduler",
+  "version": "1.0.0",
+  "description": "A Cron Job Scheduler",
+  "main": "lib/test.js",
+  "author": "Emberdyn, LLC",
+  "license": "MIT",
+  "dependencies": {
+    "node-cron": "^2.0.3"
+  }
+}
