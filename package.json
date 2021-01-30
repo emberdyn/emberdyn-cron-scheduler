@@ -1,11 +1,15 @@
 {
-  "name": "emberdyn-cron-sheduler",
-  "version": "1.0.0",
+  "name": "emberdyn-cron-scheduler",
+  "version": "1.0.1",
   "description": "A Cron Job Scheduler",
   "main": "lib/test.js",
   "author": "Emberdyn, LLC",
   "license": "MIT",
   "dependencies": {
     "node-cron": "^2.0.3"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/emberdyn/emberdyn-cron-scheduler.git"
   }
 }
